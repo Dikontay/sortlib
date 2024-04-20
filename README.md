@@ -13,12 +13,14 @@ To use this library, add it as a dependency in your Rust project's `Cargo.toml`:
 
 ```toml
 [dependencies]
-sorting_library = { git = "https://github.com/Dikontay/sortlib.git" }
+sortlib = { git = "https://github.com/Dikontay/sortlib.git" }
 ```
 
 ### Demo
 
 Here's a demonstration my sorting library:
+
+![Cargo.toml file](./cargodemo.png)
 
 ![Sorting Demo](./demo.png)
 
