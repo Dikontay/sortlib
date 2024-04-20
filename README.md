@@ -13,10 +13,14 @@ To use this library, add it as a dependency in your Rust project's `Cargo.toml`:
 
 ```toml
 [dependencies]
-sorting_library = { path = "./sortlib" }
+sorting_library = { git = "https://github.com/Dikontay/sortlib.git" }
 ```
 
+### Demo
 
+Here's a demonstration my sorting library:
+
+![Sorting Demo](./demo.png)
 
 
 ### Contributing
@@ -35,7 +39,7 @@ sorting_library = { path = "./sortlib" }
 - This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ### Authors 
-- Dilnaz Alimbayeva - sortlib - [Dikontay](https://github.com/Dikontay/sortlib)
+- Dilnaz Alimbayeva - sortlib - [Dikontay](https://github.com/Dikontay/)
 
 
 
