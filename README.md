@@ -1,6 +1,6 @@
 # Sorting Library
 
-## This Rust library provides implementations of various sorting algorithms. It is designed to be generic, capable of sorting any types that implement the `PartialOrd` and `Clone` traits. Supported sorting algorithms include Quick Sort, Selection Sort, Insertion Sort, and Merge Sort.
+- This Rust library provides implementations of various sorting algorithms. It is designed to be generic, capable of sorting any types that implement the `PartialOrd` and `Clone` traits. Supported sorting algorithms include Quick Sort, Selection Sort, Insertion Sort, and Merge Sort.
 
 ## Getting started
 
@@ -21,8 +21,8 @@ sorting_library = { path = "./sortlib" }
 
 ### Contributing
 
-```markdown
-Contributions to this library are welcome! To contribute:
+
+- Contributions to this library are welcome! To contribute:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
